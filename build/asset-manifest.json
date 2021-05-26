@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todousingreact/static/css/main.8bf3e02c.chunk.css",
+    "main.js": "/todousingreact/static/js/main.96ce3401.chunk.js",
+    "main.js.map": "/todousingreact/static/js/main.96ce3401.chunk.js.map",
+    "runtime-main.js": "/todousingreact/static/js/runtime-main.3d5d3444.js",
+    "runtime-main.js.map": "/todousingreact/static/js/runtime-main.3d5d3444.js.map",
+    "static/js/2.cce6f585.chunk.js": "/todousingreact/static/js/2.cce6f585.chunk.js",
+    "static/js/2.cce6f585.chunk.js.map": "/todousingreact/static/js/2.cce6f585.chunk.js.map",
+    "static/js/3.7a6b4a3d.chunk.js": "/todousingreact/static/js/3.7a6b4a3d.chunk.js",
+    "static/js/3.7a6b4a3d.chunk.js.map": "/todousingreact/static/js/3.7a6b4a3d.chunk.js.map",
+    "index.html": "/todousingreact/index.html",
+    "static/css/main.8bf3e02c.chunk.css.map": "/todousingreact/static/css/main.8bf3e02c.chunk.css.map",
+    "static/js/2.cce6f585.chunk.js.LICENSE.txt": "/todousingreact/static/js/2.cce6f585.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5d3444.js",
+    "static/js/2.cce6f585.chunk.js",
+    "static/css/main.8bf3e02c.chunk.css",
+    "static/js/main.96ce3401.chunk.js"
+  ]
+}
