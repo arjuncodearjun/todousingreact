@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "text me",
+      "day": "May 15th at 6pm",
+      "reminder": true
+    },
+    {
+      "text": "Buy some veggies",
+      "day": "Friday 2021",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "take the test",
+      "day": "tuesday",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
